@@ -1,2 +1,2 @@
-# ecommerce-frontend
-luv2code ecommerce frontend
+# ecommerce-backend
+luv2code ecommerce backend
